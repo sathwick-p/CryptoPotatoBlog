@@ -1,0 +1,168 @@
+
+.breadcrumb{
+    background-color:aliceblue;
+    padding: 11px;
+}
+.badge{
+    padding: 5px;
+    /* margin: 0px; */
+    margin-left: 4px;
+    margin-top: 3px;
+    padding-top: 4px;
+}
+.w-100 {
+    width: 100%;
+    height: 500px;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 100%;
+}
+/* #blogs1{
+    width: 120px;
+    height: 120px;
+}
+#blogs2{
+    width: 200px;
+    height: 300px;
+} */
+#rows{
+    justify-content: center;
+    /* margin-top: 136px; */
+    padding-top: 20px;
+    padding-left: 15px;
+    text-align: center;
+}
+.about1{
+    margin-top: 25px;
+    margin-right: 155px;
+    margin-left: 155px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px
+}
+@media only screen and (max-width:900px) {
+    .about1{
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+    }
+}
+footer a{
+    text-decoration: none;
+    color: black;
+    
+}
+.contactform{
+    /* width: 70%; */
+    margin-left: 210px;
+    margin-right: 210px;
+}
+@media only screen and (max-width:920px) {
+.contactform{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+    }
+}
+.contactform h4{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.login:hover{
+    text-decoration: underline;
+}
+.navbar-brand{
+    font-family: 'Megrim', cursive;
+    font-size: x-large;
+    font-weight: 500;
+}
+.carousel-caption h4{
+    font-family: 'Martel', serif;
+    font-size: 50px;
+}
+.carousel-caption{
+    font-family: 'Martel', serif;
+}
+.carousel-caption p{
+    font-family: 'Martel', serif;
+    font-size: 20px;
+}
+.navbar{
+    font-family: 'Megrim', cursive;
+    font-weight: bolder;
+}
+#rows{
+    font-family: elena-regular,serif;
+}
+.contactform h4{
+    font-family: 'Gentium Basic', serif; 
+    /* font-family: 'Megrim', cursive; */
+    font-size: xx-large;
+
+}
+#lastlines p{
+    display: flex;
+    text-align: center;
+    align-items: end;
+    margin-left: 395px;
+    margin-right: -177px;
+    margin-top: 20px;
+}
+@media only screen and (max-width:920px){
+    #lastlines p{
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+    }
+} 
+
+.lead{
+    font-family: elena-regular,serif;
+}
+.featurette-heading{
+    font-family: 'Gentium Basic', serif;   
+}
+@media only screen and (max-width:500px) {
+    .container-fluid{
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px;
+    }
+}
+.titleeth h3{
+    /* display: flex; */
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    /* font-family: elena-regular,serif; */
+}
+.titleeth{
+    /* font-family: elena-regular,serif; */
+    font-family: 'Playfair Display', serif;
+}
+.titleeth p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 105px;
+    margin-left: 105px;
+    /* font-size: 15px; */
+}
+.headings{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.content{
+    font-size: 20px;
+}
+
+@media only screen and (max-width:1000px) {
+    .navbar-brand{
+        margin-left: 0%;
+    }
+}

@@ -1,0 +1,46 @@
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+BITCOIN:
+Not only is Bitcoin the first cryptocurrency, but it’s also the best known of the more than 5,000 cryptocurrencies in existence today. Financial media eagerly covers each new dramatic high and stomach churning decline, making Bitcoin an inescapable part of the landscape.
+
+While the wild volatility might produce great headlines, it hardly makes Bitcoin the best choice for novice investors or people looking for a stable store of value. Understanding the ins and outs can be tricky—let’s take a closer look at how Bitcoin works.
+
+What Is Bitcoin?{BLOCK}
+Bitcoin is a decentralized digital currency that you can buy, sell and exchange directly, without an intermediary like a bank. Bitcoin’s creator, Satoshi Nakamoto, originally described the need for “an electronic payment system based on cryptographic proof instead of trust.”
+
+Each and every Bitcoin transaction that’s ever been made exists on a public ledger accessible to everyone, making transactions hard to reverse and difficult to fake. That’s by design: Core to their decentralized nature, Bitcoins aren’t backed by the government or any issuing institution, and there’s nothing to guarantee their value besides the proof baked in the heart of the system.
+
+“The reason why it’s worth money is simply because we, as people, decided it has value—same as gold,” says Anton Mozgovoy, co-founder & CEO of digital financial service company Holyheld.
+
+Since its public launch in 2009, Bitcoin has risen dramatically in value. Although it once sold for under $150 per coin, as of March 1, 2021, one Bitcoin now sells for almost $50,000. Because its supply is limited to 21 million coins, many expect its price to only keep rising as time goes on, especially as more large,
+
+How Does Bitcoin Work?{BLOCK}
+Bitcoin is built on a distributed digital record called a blockchain. As the name implies, blockchain is a linked body of data, made up of units called blocks that contain information about each and every transaction, including date and time, total value, buyer and seller, and a unique identifying code for each exchange. Entries are strung together in chronological order, creating a digital chain of blocks.
+
+“Once a block is added to the blockchain, it becomes accessible to anyone who wishes to view it, acting as a public ledger of cryptocurrency transactions,” says Stacey Harris, consultant for Pelicoin, a network of cryptocurrency ATMs.
+
+Blockchain is decentralized, which means it’s not controlled by any one organization. “It’s like a Google Doc that anyone can work on,” says Buchi Okoro, CEO and co-founder of African cryptocurrency exchange Quidax. “Nobody owns it, but anyone who has a link can contribute to it. And as different people update it, your copy also gets updated.”
+
+While the idea that anyone can edit the blockchain might sound risky, it’s actually what makes Bitcoin trustworthy and secure. In order for a transaction block to be added to the Bitcoin blockchain, it must be verified by the majority of all Bitcoin holders, and the unique codes used to recognize users’ wallets and transactions must conform to the right encryption pattern.
+
+These codes are long, random numbers, making them incredibly difficult to fraudulently produce. In fact, a fraudster guessing the key code to your Bitcoin wallet has roughly the same odds as someone winning a Powerball lottery nine times in a row, according to Bryan Lotti of Crypto Aquarium. This level of statistical randomness blockchain verification codes, which are needed for every transaction, greatly reduces the risk anyone can make fraudulent Bitcoin transactions.
+
+How Does Bitcoin Mining Work?{BLOCK}
+Bitcoin mining is the process of adding new transactions to the Bitcoin blockchain. It’s a tough job. People who choose to mine Bitcoin use a process called proof of work, deploying computers in a race to solve mathematical puzzles that verify transactions.
+
+To entice miners to keep racing to solve the puzzles and support the overall system, the Bitcoin code rewards miners with new Bitcoins. “This is how new coins are created” and new transactions are added to the blockchain, says Okoro.
+
+In the early days, it was possible for the average person to mine Bitcoin, but that’s no longer the case. The Bitcoin code is written to make solving its puzzles more and more challenging over time, requiring more and more computing resources. Today, Bitcoin mining requires powerful computers and access to massive amounts of cheap electricity to be successful.
+
+Bitcoin mining also pays less than it used to, making it even harder to recoup the rising computational and electrical costs. “In 2009, when this technology first came out, every time you got a stamp, you got a much larger amount of Bitcoin than you do today,” says Flori Marquez, co-founder of BlockFi, a crypto wealth management company. “There are more and more transactions [now, so] the amount you get paid for each stamp is less and less.” By 2140, it’s estimated all Bitcoins will have entered circulation, meaning mining will release no new coins, and miners may instead have to rely on transaction fees.
+
+How to Buy Bitcoin{BLOCK}
+Most people buy Bitcoin via exchanges, such as Coinbase. Exchanges allow you to buy, sell and hold cryptocurrency, and setting up an account is similar to opening a brokerage account—you’ll need to verify your identity and provide some kind of funding source, such as a bank account or debit card.
+
+Major exchanges include Coinbase, Kraken, and Gemini. You can also buy Bitcoin at a broker like Robinhood.
+
+Regardless of where you buy your Bitcoin, you’ll need a digital wallet in which to store it. This might be what’s called a hot wallet or a cold wallet. A hot wallet (also called an online wallet) is stored by an exchange or a provider in the cloud. Providers of online wallets include Exodus, Electrum and Mycelium. A cold wallet (or mobile wallet) is an offline device used to store Bitcoin and is not connected to the Internet. Some mobile wallet options include Trezor and Ledger.
+
+A few important notes about buying Bitcoin: While Bitcoin is expensive, you can buy fractional Bitcoin from some vendors. You’ll also need to look out for fees, which are generally small percentages of your crypto transaction amount but can really add up on small-dollar purchases. Finally, be aware that Bitcoin purchases are not instantaneous like many other equity purchases seemingly are. Because Bitcoin transactions must be verified by miners, it may take you at least 10-20 minutes to see your Bitcoin purchase in your account.
+------------------------------------------------------------------------------------------------------------------------------------------
